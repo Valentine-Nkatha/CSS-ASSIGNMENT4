@@ -1,0 +1,190 @@
+#One{ 
+    display: flex;
+justify-content: space-around;
+font-size: small;
+color: black;
+}
+#Button{
+    background-color: orange;
+    color: white;
+    border: 2px;
+}
+#Buttons{
+    background-color: black;
+    color: antiquewhite;
+}
+#button{
+    background-color: white;
+    color: black;
+}
+#Logo{
+    display: flex;
+    justify-content: space-around;
+}
+#boy{
+    display: flex;
+    justify-content: center;
+    font: bold;
+}
+#Boy{
+    display: flex;
+    justify-content: space-around;
+}
+#Girl{
+    background-color: cadetblue;
+    color: white;
+}
+#Car{ 
+    display: flex;
+    justify-content: space-around;
+}
+#Start{
+    border: 2px solid;
+    padding: 2px;
+    width: 30%;
+    height: 20%;
+    background-color: white;
+    color: black;
+}
+#draft{
+    background-image:url("picture1.jpeg");
+    background-color: lightgray;
+    background-size: cover;
+    min-height: 400px;
+    
+}
+#book{
+    padding: 15%;
+    background-color: orange;
+    color: white;
+}
+#City{
+
+padding: 20%;
+background-color: blue;
+    
+    
+
+}
+#Our{
+    display: flex;
+    justify-content: center;
+}
+#lorem{
+    display: flex;
+    justify-content: space-around;
+}
+#customer{
+    display: flex;
+    justify-content: space-around;
+}
+#news{
+    display: flex;
+    justify-content: center;
+}
+#email{
+    display: flex;
+    justify-content: center;
+}
+#box{
+    background-color: orange;
+    color: white;
+}
+#blog{
+    display: flex;
+    justify-content: center;
+}
+#five{
+    background-image:url("picture5.jpeg");
+    background-color: cadetblue;
+    background-size: cover;
+    min-height: 300px;
+    color: white;
+
+
+}
+#six{
+    background-image:url("picture6.jpeg");
+    background-color: cadetblue;
+    background-size: cover;
+    min-height: 300px;
+    
+
+}
+#seven{
+    background-image:url("picture7.jpeg");
+    background-color: cadetblue;
+    background-size: cover;
+    min-height: 300px;
+    color: black;
+    
+}
+#picture{
+    display: flex;
+    justify-content: space-around;
+}
+#Help{
+    background-color: orange;
+    color: white;
+}
+#Container{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: right;
+
+}
+.end{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+
+}
+#picture3{
+    display: flex;
+    float: right;
+}
+#Drafts{
+    display: flex;
+    justify-content: right;
+}
+#Start{background-image:url("picture4.jpeg");
+    background-color:blue;
+    background-size: cover;
+    min-height: 300px;
+
+}
+#do{
+    background-color: blue;
+    color: white;
+}
+.Map{
+    display: flex;
+    justify-content: right;
+    
+}
+#Do{
+    display: flex;
+    justify-content: center;
+}
+
+
+#Image{
+    border-radius: 50%;
+}
+   .booklet{
+    display: flex;
+   } 
+   #Box{
+    background-color: orange;
+    color: white;
+   
+   }
+ #request{
+
+    width: 900px;
+    display: flex;
+    justify-content: space-around;
+ }
+ 
